@@ -1,8 +1,9 @@
-### Olá 👋!, eu sou a Mayra Santana Gomes 
+### Olá 👋!, Eu sou a Mayra Santana Gomes 
 
 
 - 👩‍🎓 Graduada em Análise e Desenvolvimento de Sistemas
-- 📙 Estudante de Front end
+- 👩‍🎓 Cursando Pós graduação Lato Sensu - MBA em desenvolvimento Full Stack na PUCRS
+- 📙 Dev Font-End 
 - 👯 Bastante colaborativa , gosto de aprender novas tecnologias para compartilhar conhecimentos com meus colegas de profissão
 
 
