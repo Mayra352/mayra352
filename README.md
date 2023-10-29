@@ -24,7 +24,7 @@
  
 <div> 
   <a href="https://instagram.com/mayrasantanag" target="_blank"><img src="https://instagram.com/mayragomes315?igshid=YmMyMTA2M2Y=" target="_blank"></a>
-  <a href = "mailto:contatomayrasantanagomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "emailto:contatomayrasantanagomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayra-santana-81755920a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
