@@ -4,7 +4,7 @@
 - 👩‍🎓 Graduada em Análise e Desenvolvimento de Sistemas
 - 👩‍🎓 Cursando Pós graduação Lato Sensu - MBA em desenvolvimento Full Stack na PUCRS
 - 👩‍💻 Programadora Font-End 
-- 👯 Bastante colaborativa , gosto de aprender novas tecnologias para compartilhar conhecimentos com meus colegas de profissão
+- 📚 Bastante colaborativa , gosto de aprender novas tecnologias para compartilhar conhecimentos com meus colegas de profissão
 
 
 <div>
